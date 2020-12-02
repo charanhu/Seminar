@@ -1,2 +1,2 @@
 # Seminar
-Effective Heart Disease Prediction
+Effective Heart Disease Prediction Using Hybrid Machine Learning Techniques
